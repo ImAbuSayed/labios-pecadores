@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bebé, tus labios pecadores me tienen mal,
+> Una noche en la ciudad, perdiendo la moral.
+> Quiero tenerte, ven y déjate llevar,
+> Que este fuego que encendimos no se va a apagar.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
