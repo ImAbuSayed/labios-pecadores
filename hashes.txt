@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Labios pecadores
+
+This log tracks the cryptographic history and versioning for the song **Labios pecadores** (labios-pecadores).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T22:49:22.636473 | `v1` | `eeea96c97aebeb9c0dba20b6722d6ffea55585055fd5dcb7b62de2766f5001b9` | `6df278d488887aaa45d9230bd7fd67201db046f715ade4143059d8680410cd55` | `2026-06-16_labios-pecadores-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/labios-pecadores/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Labios pecadores](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-pecadores/) |
+| **Get License** | [Obtain a Music License for Labios pecadores](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-pecadores/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `eeea96c97aebeb9c0dba20b6722d6ffea55585055fd5dcb7b62de2766f5001b9` |
 | **Timestamp** | June 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
